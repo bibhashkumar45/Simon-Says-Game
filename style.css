@@ -1,0 +1,52 @@
+  
+  
+  body{
+        text-align: center;
+        background-color:skyblue
+  }
+
+
+  h1{
+        margin-bottom: 2rem;
+  }
+  h2{
+        margin-bottom: 2rem;
+  }
+
+
+  .btn{
+        height:200px;
+        width:200px;
+        border-radius:50%;
+        border:5px solid black;
+        margin:1rem;
+  }
+
+  .btn-container{
+        display:flex;
+        justify-content: center;
+  }
+
+  .red{
+        background-color: rgb(255, 80, 80);
+  }
+
+  .green{
+        background-color: rgb(80, 255, 80);
+  }
+
+  .purple{
+        background-color: #819ff9;
+  }
+
+  .yellow{
+        background-color: yellow;
+  }
+
+  .flash{
+        background-color: white;
+  }
+
+  .userflash{
+        background-color: green;
+  }
